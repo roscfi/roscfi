@@ -20,13 +20,24 @@ I’m always studying 📚 and learning from my colleagues, because I know that 
 
 ---
 
+#### 📊 **GitHub Stats**  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=roscfi&show_icons=true&theme=dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=roscfi&layout=compact&theme=dark)
+
+---
+
 ### 📫 **Let’s Connect!**  
 I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out!  
 - [LinkedIn](https://www.linkedin.com/in/rsfsp/) 
+
 ---
 
 Let’s build something amazing together! 🚀  
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 <!---
 roscfi/roscfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
