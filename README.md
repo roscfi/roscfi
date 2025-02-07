@@ -20,14 +20,14 @@ I’m always studying 📚 and learning from my colleagues, because I know that 
 
 ---
 
-#### 📊 **GitHub Stats**  
+<!--- #### 📊 **GitHub Stats**  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=roscfi&show_icons=true&theme=dark)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=roscfi&layout=compact&theme=dark)
 
 ---
-
+--->
 ### 📫 **Let’s Connect!**  
 I’m always open to collaborating on exciting projects or discussing tech. Feel free to reach out!  
 - [LinkedIn](https://www.linkedin.com/in/rsfsp/) 
