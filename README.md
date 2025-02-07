@@ -7,7 +7,8 @@ For almost **10 years**, I've been immersed in the world of tech, exploring, bui
 I love working with diverse tech stacks and solving real-world problems. Here are some of the tools and technologies I've worked with:  
 - **Frontend**: Vue.js 🖥️, React ⚛️  
 - **Backend**: PHP (WordPress, Laravel) 🐘, Java (Spring Boot) ☕, Python 🐍  
-- **DevOps & Cloud**: Docker 🐳, AWS ☁️, Oracle, DigitalOcean 🌊, and classic hosting services  
+- **DevOps & Cloud**: Docker 🐳, AWS ☁️, Oracle, DigitalOcean 🌊, and classic hosting services
+- **TeamWork**: This is what I think is the most important part at work, in every place that I've worked I've done really good friends and learned a lot with them
 
 #### 🌟 **My Approach**  
 I believe in **learning by doing**. Whether it's building a new feature, optimizing a system, or exploring a new technology, I thrive on hands-on experience. 🛠️  
